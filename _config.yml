@@ -1,4 +1,5 @@
----
 title: amplivum
 description: Amplectere Privatum
-remote_theme: just-the-docs
+theme: just-the-docs
+
+url: https://348ab1a8-424a-43d8-b463-8e925d751c7f.github.com/amplivum.github.io
