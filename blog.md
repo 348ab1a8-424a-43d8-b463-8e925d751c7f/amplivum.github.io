@@ -1,7 +1,8 @@
 ---
 title: Blog
 layout: default
-nav_order: 3
+nav_order: 2
+permalink: /blog/
 ---
 <h1>Recent Blogs</h1>
 <h2></h2>
