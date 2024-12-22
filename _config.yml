@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: amplivum
+title: Amplivum
 description: Amplectere Privatum
 baseurl: ""
 url: http://www.amplivum.com
@@ -25,3 +25,6 @@ repository: 348ab1a8-424a-43d8-b463-8e925d751c7f/amplivum.github.io
 
 # Theme
 theme: just-the-docs
+
+just_the_docs:
+  color_scheme: dark
