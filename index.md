@@ -1,11 +1,9 @@
 ---
-title: Start Page
+title: Home
 layout: default
 nav_order: 1
 ---
-<h1>Start Here</h1>
-
-Hello there,<br>
+<h1>Hello there!</h1>
 
 My name is **003c717e-69aa-45cf-a9ed-67f45b6c76de** and I will be your guide to Amplivum.
 You may notice that I haven't shared my ***real name*** but instead provided what looks like a random string of characters.
