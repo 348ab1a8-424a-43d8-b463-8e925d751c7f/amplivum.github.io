@@ -3,10 +3,11 @@ title: Home
 layout: default
 nav_order: 1
 ---
-<h1><b><b>/ON_BOARDING/</b></b></h1>
+<h1><b><b>/HOME/</b></b></h1>
+
 <br>
 
-My name is **003c717e-69aa-45cf-a9ed-67f45b6c76de**. Welcome to the on boarding process for Amplivum.
+> My name is **003c717e-69aa-45cf-a9ed-67f45b6c76de**. Welcome to the onboarding process for **Amplivum**.
 
 You may notice that I haven't shared my ***real name*** but instead provided what looks like a random string of characters.
 This string is a [**UUID**](https://en.wikipedia.org/wiki/Universally_unique_identifier), which stands for **Universally Unique Identifier**.
