@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /resources/email
 ---
 ## Table of Contents
- - [Email](#email-electronic-mail)
+ - [Email (Electronic Mail)](#email-electronic-mail)
 	- [Gmail](#gmail)
 	- [Outlook](#outlook)
 	- [Yahoo! Mail](#yahoo-mail)
@@ -82,8 +82,9 @@ and outgoing mail, to deliver personalized features, content, and advertising, a
 ---
 
 # <b><b>What should you do now?</b></b>
-
 > Look for a new provider, that's what.
+
+<br>
 
 After understanding the downsides of conventional email service providers, it's time to look for privacy- and security-focused alternatives. 
 When selecting an email provider, prioritize these key features to enhance your privacy and security:
@@ -121,10 +122,11 @@ By choosing an email provider with these features, you take a proactive step tow
 ---
 
 # <b><b>Recommended Alternative</b></b>
-
-> <i>Disclaimer: I will only recommend alternatives that I, <b>003c717e-69aa-45cf-a9ed-67f45b6c76de</b>, have personally used.
+> <i><b>Disclaimer:</b> I will only recommend alternatives that I, <b>003c717e-69aa-45cf-a9ed-67f45b6c76de</b>, have personally used.
 This ensures that my recommendations are based on firsthand experience, providing accurate, trustworthy, and practical insights.
 By sharing only what I've tested, I can confidently guide you towards services that laign with your privacy and security needs.
+
+<br>
 
 ## <a href="https://proton.me/mail">ProtonMail</a> with <a href="https://simplelogin.io/">Simplelogin</a>
 
@@ -156,7 +158,12 @@ SimpleLogin's capabilities for email aliasing complemented Proton's existing off
 
 ---
 
-# Other Alternatives</b></b></h1>
+# <b><b>Other Alternatives</b></b>
+ > <i><b>Disclaimer:</b> The alternatives listed in this section are provided for informational purposes only. 
+   Unlike the Recommended Alternatives, I have not personally used or tested these services. 
+   Please conduct your own research to determine if these alternatives meet your privacy and security needs.</i>
+
+<br>
 
 ## <b>[Tutanota](https://mail.tutanota.com/)</b>
 > A German-based email provider offering end-to-end encryption and an ad-free experience. It emphasizes privacy and security, storing minimal metadata and using renewable energy for its operations.
