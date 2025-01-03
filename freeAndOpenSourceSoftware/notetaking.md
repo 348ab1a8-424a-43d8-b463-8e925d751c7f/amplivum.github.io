@@ -1,5 +1,5 @@
 ---
-title: Note Taking
+title: Microsoft Apps
 layout: default
 parent: Free and Open-Source Software (FOSS)
 nav_order: 1
